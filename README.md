@@ -30,3 +30,4 @@ A fairly advanced Discord Token Logger Made by myself
 If you want to help me in my work, consider donating. Thank you!
 ### ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin
 - bc1qk67atqah2y0nt8q8lmh2xapxg4k2t4suh77yeh 
+- 1HtCLVn4YbpdcSdsKLL8MFTry9RGpB5a4P
