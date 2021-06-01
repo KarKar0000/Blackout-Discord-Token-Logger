@@ -1,5 +1,4 @@
 # Blackout-Discord-Token-Logger
-A fairly advanced Discord Token Logger Made by myself
 
 ## Features
 - Ip Logs
